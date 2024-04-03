@@ -13,7 +13,7 @@ Une fois merger, on detruit la branche.
 
 Les message des commit doivent être structurés comme suit :
 
-<type>(étendue optionnelle): <description> #<numéro de l'issue>
+{type}(étendue optionnelle): {description} #<numéro de l'issue>
 
 (corps optionnel)
 
