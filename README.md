@@ -8,6 +8,7 @@ Le projet est decoupé en "issues" qui correspondront à des fonctionnalités, d
 - build
 - feat   /#<numéro de l'issue>/<énoncé de l'issue>
 - fix
+
 Au moins un commit doit être opéré par issue avant de merger sur la branche 'dev'.
 Une fois merger, on detruit la branche.
 
