@@ -21,3 +21,5 @@ Une fois merger, on detruit la branche.
 (pied optionnel)
 
 - La convention de nommage des classes css est "oriented object css".
+
+...
